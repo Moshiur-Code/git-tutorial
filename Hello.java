@@ -5,7 +5,7 @@ public class Hello {
     }
 
 
-    public static void moshiur(int x) {
+    public static int Moshi(int x) {
         return x*x;
     }
 
