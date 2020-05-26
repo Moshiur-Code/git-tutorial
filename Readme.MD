@@ -1,1 +1,3 @@
-This is a simple read me file
+
+
+vs code is awesome
