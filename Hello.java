@@ -5,8 +5,8 @@ public class Hello {
     }
 
 
-    public static void moshiur(int x) {
-        return x*x;
+    public static void moshiur( ) {
+        system.out.printIn("Merge conflict bother a lot");
     }
 
 
